@@ -1,0 +1,1 @@
+A basic task mananger built using html, css and javascript. A first year project. Inclues adding task function, complete task function and deleting task function with elegant UI. Clone the git repository and click on go live to view the project.
